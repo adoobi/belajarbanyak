@@ -2,10 +2,21 @@
 pertemuan 13 mei 2026 mppl
 
 
+https://webhook.cool/at/polite-lion-17/FTr4gP9_ueZmb_LW5OkWUfnopMk0FdCK 
+
+
+https://polite-lion-17.webhook.cool 
+
+
+
+
+
 CARA SETUP AWAL GIT
 
 ```
 git clone https://github.com/adoobi/belajarbanyak
+
+cd belajarbanyak
 
 git config --global user.email "masukkan email anda"
 
