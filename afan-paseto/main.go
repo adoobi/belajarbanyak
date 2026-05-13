@@ -44,6 +44,8 @@ func createToken(userID, role, nama string) paseto.Token {
 	return token
 }
 
+// tesssss
+
 // signToken menandatangani token menggunakan secret key.
 // Hasilnya adalah string token yang bisa dikirim ke client.
 // Format: v4.public.<payload>.<signature>
